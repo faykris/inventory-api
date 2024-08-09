@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\dtos\\registeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\dtos\\registeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\dtos\\updateinfoproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\dtos\\updateinfoproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\dtos\\markedidsproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\dtos\\markedidsproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\inventoryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:inventoryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|c:\\users\\faybe\\proyectos\\inventoryapi\\inventoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC0881E9-2F3B-4333-9F3F-E9979BA30BA1}|InventoryAPI.csproj|solutionrelative:inventoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\RegisterEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\RegisterEmployee.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\RegisterEmployee.cs",
+              "RelativeToolTip": "Models\\Dtos\\RegisterEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:08:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateInfoProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\UpdateInfoProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\UpdateInfoProductDto.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\UpdateInfoProductDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\UpdateInfoProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:33:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:31:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:29:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:22:50.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarkedIdsProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\MarkedIdsProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\MarkedIdsProductDto.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\MarkedIdsProductDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\MarkedIdsProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:50:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Dtos\\AddProductDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\AddProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:49:52.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T13:21:40.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Entities\\Login.cs",
+              "RelativeToolTip": "Models\\Entities\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:37:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "Models\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:59:17.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:30:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:29:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryAPI.http",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\InventoryAPI.http",
+              "RelativeDocumentMoniker": "InventoryAPI.http",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\InventoryAPI.http",
+              "RelativeToolTip": "InventoryAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-05T21:00:41.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\InventoryAPI.csproj",
+              "RelativeDocumentMoniker": "InventoryAPI.csproj",
+              "ToolTip": "C:\\Users\\faybe\\Proyectos\\InventoryAPI\\InventoryAPI.csproj",
+              "RelativeToolTip": "InventoryAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T12:58:03.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
